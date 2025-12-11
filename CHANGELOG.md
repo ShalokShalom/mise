@@ -1,5 +1,24 @@
 # Changelog
 
+## [2025.12.2](https://github.com/jdx/mise/compare/v2025.12.1..v2025.12.2) - 2025-12-11
+
+### 🐛 Bug Fixes
+
+- **(tasks)** disable ctrl-c exit behavior during mise run by @jdx in [#7232](https://github.com/jdx/mise/pull/7232)
+
+### 📦 Registry
+
+- added werf by @tony-sol in [#7230](https://github.com/jdx/mise/pull/7230)
+
+### 📦 Aqua Registry Updates
+
+#### New Packages (1)
+
+- [`ByteNess/aws-vault`](https://github.com/ByteNess/aws-vault)
+
+#### Updated Packages (1)
+
+- [`kyverno/chainsaw`](https://github.com/kyverno/chainsaw)
 ## [2025.12.1](https://github.com/jdx/mise/compare/v2025.12.0..v2025.12.1) - 2025-12-08
 
 ### 🚀 Features
